@@ -1,6 +1,6 @@
-# Dream-Journal
+# Dream Journal Archive
 
-A backup of my dream journal.
+An archive of my dream journal.
 
 # Live Version
 
